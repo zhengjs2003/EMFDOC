@@ -26,7 +26,6 @@
   * [统一标题栏](header.md)  
   * [数据存储管理](storage.md)  
   * [下拉刷新](refresh.md)  
-  * [图片处理](image.md)  
   * [RecycleView](recycleview.md)  
   * [手势密码](gesture.md)  
   * [指纹识别](fingerprint.md) 
