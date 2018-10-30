@@ -1,5 +1,5 @@
 
-[点击跳转](push#push)
+[点击跳转](push.md#push)
 
 <ul class="metismenu" id="menu">
   <li class="active">
