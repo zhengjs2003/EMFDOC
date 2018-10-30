@@ -51,7 +51,7 @@
 	    	<a onclick="loadMd('./monintor.md')"  aria-expanded="false">APP监控</a>
 	  	</li>
      	<li>
-	    	<a onclick="loadMd('./abtest.md')" href="#" aria-expanded="false">A/B测试</a>
+	    	<a onclick="loadMd('./abtest.md')" href="#abtest" aria-expanded="false">A/B测试</a>
 	  	</li>
      	<li>
 	    	<a onclick="loadMd('./tools.md')"  aria-expanded="false">工具库</a>
