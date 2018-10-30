@@ -30,6 +30,7 @@
 
 
 ###2.2.  工程目录结构说明
+```
     app - 宿主工程，包括启动页和首页等
     ect_lib - 公共模块，公共库，主要有各种`base`，各种ui组件，自定义组件，
               公用的`Activity`、公用的`Fragment`，和公用的`utils`等等
@@ -53,7 +54,7 @@
           [Databinding参考](https://www.jianshu.com/p/dd247d6a562d)   
     3.mod_xx可独立编译
         在各模块下，修改gradle.properties文件中的isModule=true，执行模块的assembleDebug
-        
+```        
   
 ### <a name="architecture_2.2"></a>2.3. 第三方帐号清单  
 
