@@ -1,3 +1,6 @@
+
+[点击跳转](push#push)
+
 <ul class="metismenu" id="menu">
   <li class="active">
     <a onclick="loadMd('./emf.md')" aria-expanded="true">概述</a>
